@@ -13,8 +13,8 @@
         android:layout_height="134dp"
         android:backgroundTint="@android:color/holo_red_light"
         android:fontFamily="cursive"
-        android:text="Click me!"
-        android:textSize="30"
+        android:text="@string/click_me"
+        android:textSize="20sp"
         android:onClick="go"
         tools:layout_editor_absoluteX="135dp"
         tools:layout_editor_absoluteY="298dp" />
